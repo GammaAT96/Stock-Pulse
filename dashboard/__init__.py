@@ -1,0 +1,1 @@
+"""StockPulse Streamlit dashboard package."""
